@@ -1,0 +1,167 @@
+/* hero section starts here */
+.hero .head {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #37517e;
+
+
+}
+
+.hero .read {
+    color: rgb(64, 177, 221);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(64, 177, 221);
+    border-radius: 6px;
+    padding: 6px;
+}
+
+.hero .style-1 .style-2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    /* padding-bottom: 100px; */
+}
+
+i {
+    color: #47b2e4;
+}
+
+/* hero section ends here */
+/* service section starts here */
+.service {
+    margin-top: 5%;
+    margin-bottom: 18%;
+    margin-left: 5%;
+    margin-right: 0%;
+}
+
+.service .card {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    font-size: 20px;
+
+}
+
+
+.service .u-line h2 {
+    font-size: 32px;
+    color: #37517e;
+    text-align: center;
+}
+
+.service .u-line p {
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 1px;
+}
+
+.service .u-line hr {
+    width: 130px;
+    margin-left: 44%;
+    margin-right: 58%;
+
+}
+
+.service .card:hover {
+
+    height: 200px;
+    line-height: 2rem;
+    padding-top: 25px;
+    border: none;
+}
+
+.service .icon-l {
+    font-size: xx-large;
+}
+
+.service .card h4 {
+    color: #37517e;
+}
+
+/* service section ends here */
+
+
+/* process section starts here */
+.process {
+    margin-bottom: 5%;
+}
+
+.process .work-h {
+    text-align: center;
+}
+
+.process .work-h h2 {
+    color: #37517e;
+}
+
+.process .work-h hr {
+    width: 150px;
+    margin-left: 44%;
+    margin-right: 58%;
+}
+
+.process .num-stamp {
+    border-style: none;
+    width: 50px;
+    height: 45px;
+    text-align: center;
+    border-radius: 100%;
+    margin-top: -40px;
+    background-color: #47b2e4;
+    color: white;
+    padding-top: 7px;
+    font-weight: bold;
+}
+
+.process .card i .future {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.process .card {
+    border-style: none;
+    line-height: 1.5;
+}
+
+.process .card:hover {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* process section ends here */
+/* Action section starts here */
+.action {
+    margin-bottom: 5%;
+}
+
+#imageback {
+    background-image: url('/Public/image/backimg.jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.action .back p {
+    margin-top: 3%;
+}
+
+.action .flower {
+    color: white;
+}
+
+.action .btn-color {
+    color: white;
+    border-color: white;
+    border-radius: 30px;
+}
+
+/* Action section ends here */
+/* Port section starts here */
+
+/* Port section ends here */
